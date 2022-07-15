@@ -56,6 +56,9 @@ Concepts to know:
 Concepts to know:
 
 - population
+- Charles Darwin
+- Mimicry
+- 
 
 ### Genetics
 
@@ -75,6 +78,7 @@ Concepts to know:
 - fitness
 - PCR
 - Y chromosome
+- X chromosome
 
 ### Mycology
 
